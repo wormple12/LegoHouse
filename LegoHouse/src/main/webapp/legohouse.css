@@ -1,0 +1,51 @@
+
+body
+{
+    background-image: url("images/login_background.jpg");
+    background-color: #E5E4E2;
+    font-family: "Sans-serif",sans-serif;
+    background-size: cover;
+    color: #FFFDD0;
+}
+
+#topmenu
+{
+    color: black;
+}
+
+h1, h2, h3, h4, p
+{
+    font-family: "Sans-serif",sans-serif;
+    color: #FFFDD0;
+    text-align: center;
+}
+
+
+form, table, div
+{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.panel-default
+{
+    background-color: rgba(15,45,85,0.9);
+    border-color: rgba(5,15,35,0.5);
+    border-spacing: 5pt;
+    border-collapse: separate;
+    border-width: medium;
+    max-width: 90%;
+    max-width: 1000px;
+}
+
+table, td, th
+{
+    border: 2px solid rgba(5,15,35,0.7);
+    text-align:center; 
+    padding: 10px; 
+}
+
+button
+{
+    background-color: midnightblue;
+}

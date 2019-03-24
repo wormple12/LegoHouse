@@ -1,0 +1,9 @@
+about
+
+flere javascript checks i registration
+
+javadoc!
+
+brugerside
+
+bedre forbandt-mønstre + plads til dør og vindue
