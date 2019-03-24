@@ -1,5 +1,3 @@
-about
-
 flere javascript checks i registration
 
 javadoc!

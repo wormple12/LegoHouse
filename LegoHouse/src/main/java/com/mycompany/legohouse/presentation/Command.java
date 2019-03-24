@@ -24,6 +24,7 @@ public abstract class Command {
             put("registration", new RegistrationCommand());
             put("login", new LoginCommand());
             put("logout", new LogoutCommand());
+            put("about", new AboutCommand());
             
             put("main", new MainCommand());
             put("partlist", new PartListCommand());
