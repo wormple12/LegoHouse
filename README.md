@@ -28,7 +28,9 @@ password = 66654321
 
 Otherwise, simply register as a user and log in using that.
 
-### Javadoc
+### Documentation
+
+An ER model and a SQL generation script for the database structure has been included in the Diagrams folder in this repository.
 
 Javadoc is currently not available for this project as I simply didn't have enough time to write it.
 
