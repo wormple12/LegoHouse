@@ -16,6 +16,7 @@ com\mycompany\legohouse\presentation\commands\RegistrationCommand.class
 com\mycompany\legohouse\data\SQL_Impl\DBConnector.class
 com\mycompany\legohouse\presentation\commands\AddOrderCommand.class
 com\mycompany\legohouse\logic\help_classes\User.class
+com\mycompany\legohouse\presentation\commands\AboutCommand.class
 com\mycompany\legohouse\presentation\commands\LogoutCommand.class
 com\mycompany\legohouse\presentation\commands\UnknownCommand.class
 com\mycompany\legohouse\data\DataAccessException.class
