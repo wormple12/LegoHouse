@@ -18,7 +18,7 @@ Furthermore, the project includes introductions to: HTML, CSS, .jsp sites and mo
 
 An example of the deployed .war file can be accessed here:
 
-?????????
+http://165.227.148.141:8080/LegoHouse
 
 **To test the admin status use the following account:** 
 
