@@ -11,7 +11,7 @@ import java.sql.SQLException;
  * DBConnector connects to the MySQL server on Simon Asholt Norup's Ubuntu
  * droplet.
  *
- * @author RODA
+ * @author RODA & Simon Asholt Norup
  */
 public class DBConnector {
 
@@ -32,7 +32,7 @@ public class DBConnector {
      */
     public static Connection getConnection() throws SQLConnectionException {
         try {
-            if (connection == null) {
+            if (connection == null || connection.isClosed()) {
                 Class.forName("com.mysql.jdbc.Driver").newInstance(); //com.mysql.cj.jdbc.Driver
                 String url = "jdbc:mysql://" + IP + ":" + PORT + "/" + DATABASE + "?allowMultiQueries=true";
                 connection = (Connection) DriverManager.getConnection(url, USERNAME, PASSWORD);

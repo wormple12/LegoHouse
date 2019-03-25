@@ -1,26 +1,26 @@
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\data\DataAccessException.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\MainCommand.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\OrderListCommand.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\data\OrderDAO.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\data\SQL_Impl\DBConnector.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\logic\help_classes\House.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\AddOrderCommand.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\logic\help_classes\Part.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\data\SQL_Impl\UserDAO_SQL.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\RegistrationCommand.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\data\UserDAO.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\UnknownCommand.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\data\SQL_Impl\SQLConnectionException.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\Command.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\FrontController.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\logic\help_classes\User.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\logic\Facade.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\logic\help_classes\Order.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\LogoutCommand.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\PartListCommand.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\data\SQL_Impl\OrderDAO_SQL.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\logic\help_classes\Brick.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\AboutCommand.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\logic\FacadeImpl.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\LoginCommand.java
-C:\Users\HP\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\logic\PartsCalculator.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\logic\PartsCalculator.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\LogoutCommand.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\data\SQL_Impl\DBConnector.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\logic\help_classes\Order.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\data\SQL_Impl\SQLConnectionException.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\UnknownCommand.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\logic\help_classes\Part.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\data\SQL_Impl\OrderDAO_SQL.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\Command.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\data\UserDAO.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\MainCommand.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\OrderListCommand.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\logic\help_classes\Brick.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\PartListCommand.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\RegistrationCommand.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\logic\FacadeImpl.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\logic\help_classes\User.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\logic\Facade.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\AddOrderCommand.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\LoginCommand.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\data\DataAccessException.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\commands\AboutCommand.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\data\SQL_Impl\UserDAO_SQL.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\data\OrderDAO.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\logic\help_classes\House.java
+C:\Users\PC 2 2016 SDC-privat\OneDrive\NetBeansProjects\aaaGit\LegoHouse\LegoHouse\src\main\java\com\mycompany\legohouse\presentation\FrontController.java
